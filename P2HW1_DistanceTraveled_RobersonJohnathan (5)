@@ -1,0 +1,20 @@
+Python 2.7.5 (default, May 15 2013, 22:43:36) [MSC v.1500 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> #CTI-110
+>>> #P2HW1 - Distance Traveled
+>>> #Johnathan Roberson
+>>> #02/18/2018
+>>> #Establish the value of "speed"
+>>> speed = 70
+>>> #Establish the value of the time increments
+>>> distanceAfter6 = speed * 6
+>>> distanceAfter10 = speed * 10
+>>> distanceAfter15 = speed * 15
+>>> #print the values of each distance
+>>> print (distanceAfter6)
+420
+>>> print (distanceAfter10)
+700
+>>> print (distanceAfter15)
+1050
+>>> 
